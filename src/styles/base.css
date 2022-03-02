@@ -146,6 +146,8 @@ img.logo {
   width: 380
 }
 
+
+
 img.logo:hover {
   filter: drop-shadow(2px 2px 2px var(--color5));
 }
